@@ -1,2 +1,2 @@
 # Responsive-Portfolio
-Homework 02_2 - A responsive portfolio through media queries
+A responsive portfolio built through custom CSS media queries
